@@ -39,7 +39,7 @@ Pin Wiring Arduino Uno and WS2812B
 
 ## Demonstration
 
-![](magic_map.gif)
+https://im7.ezgif.com/tmp/ezgif-7-40cfa0133359.gif
 
-[logo]: (magic_map1.png) "Magic map1"
-[logo]: (magic_map2.png) "Magic map2"
+[logo]: magic_map1.png "Magic map1"
+[logo]: magic_map2.png "Magic map2"
