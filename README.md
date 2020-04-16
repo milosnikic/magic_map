@@ -23,19 +23,19 @@ What you need for this project?
 
 ## Pin wiring
 Pin	Wiring Arduino Uno and MFRC522
-SDA ->	Digital 10
-SCK ->	Digital 13
-MOSI ->	Digital 11
-MISO ->	Digital 12
-IRQ ->	unconnected
-GND ->	GND
-RST ->	Digital 9
-3.3V ->	3.3V
+- SDA ->	Digital 10
+- SCK ->	Digital 13
+- MOSI ->	Digital 11
+- MISO ->	Digital 12
+- IRQ ->	unconnected
+- GND ->	GND
+- RST ->	Digital 9
+- 3.3V ->	3.3V
 
 Pin Wiring Arduino Uno and WS2812B
-5v -> External Power Supply 5V
-GND -> External Power Supply GND and Arduino GND
-Data Input -> Digital 7
+- 5v -> External Power Supply 5V
+- GND -> External Power Supply GND and Arduino GND
+- Data Input -> Digital 7
 
 ## Demonstration
 
